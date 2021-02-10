@@ -1,0 +1,33 @@
+List of bugs:
+
+1. Button 9 font
+2. Button * size
+3. Instead x2 - egypt symbol on a button
+4. Application color
+5. Application logo
+6. Maximize button is disabled
+7. Several ... can be input
+8. Intead of , (comma) . (dot) is shown in I/O field
+9. Button 4 - shows 44 in I/O field
+10. Button 7 - shows 13 in I/O field
+11. When open app - welcome message is not specified
+12. Button < doesn't work
+13. When click on Panel1 (between digits), message appears
+14. When click on Panel2 (between arithmetic symbols), message appears + panel chnage color
+15. Button C clean last entered digit, not all symbols in I/O field
+16. Buttons / and * are mixed + on mockup their positions are vice versa
+17. The application form can be resized and empty space is shown
+18. When press x2 - answer is in a new window, not in I/O field
+19. When double clic on a form - fatal error appears + change form color
+20. About window: Calclator
+21. About window: Need to specify company name and logo instead of TBD
+22. When press Mode - change form color
+23. When press Scientific - new section appears but is hidden
+24. After press =, new digit can be added to the end of the symbols in I/O field
+25. When open app - error appears
+
+
+
+
+
+Several ... can be input in a row
