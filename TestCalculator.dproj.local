@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/02/10 13:22:09.000.187,=C:\Users\Maryna_Kishkurna\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2021/02/10 13:22:49.000.171,=C:\Users\Maryna_Kishkurna\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2021/02/10 13:31:21.000.837,C:\Users\Maryna_Kishkurna\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\Maryna_Kishkurna\Documents\Embarcadero\Studio\Projects\Calculator\Unit3.dfm</Transaction>
+    <Transaction>2021/02/10 13:31:21.000.837,C:\Users\Maryna_Kishkurna\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\Maryna_Kishkurna\Documents\Embarcadero\Studio\Projects\Calculator\Unit3.pas</Transaction>
+    <Transaction>2021/02/10 13:31:24.000.614,C:\Users\Maryna_Kishkurna\Documents\Embarcadero\Studio\Projects\Project3.dproj=C:\Users\Maryna_Kishkurna\Documents\Embarcadero\Studio\Projects\Calculator\Project3.dproj</Transaction>
+    <Transaction>2021/02/10 17:08:31.122,C:\zDisc D\DQE\DQE BI Lab\calculator\calculator\Project3.dproj=C:\Users\Maryna_Kishkurna\Documents\Embarcadero\Studio\Projects\Calculator\Project3.dproj</Transaction>
+    <Transaction>2021/02/10 17:09:14.086,C:\zDisc D\DQE\DQE BI Lab\calculator\calculator\TestCalculator.dproj=C:\zDisc D\DQE\DQE BI Lab\calculator\calculator\Project3.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
