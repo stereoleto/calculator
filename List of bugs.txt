@@ -6,14 +6,14 @@ List of bugs:
 4. Application color
 5. Application logo
 6. Maximize button is disabled
-7. Several ... can be input
+7. Several ... can be input in a row
 8. Intead of , (comma) . (dot) is shown in I/O field
 9. Button 4 - shows 44 in I/O field
 10. Button 7 - shows 13 in I/O field
 11. When open app - welcome message is not specified
 12. Button < doesn't work
-13. When click on Panel1 (between digits), message appears
-14. When click on Panel2 (between arithmetic symbols), message appears + panel chnage color
+13. When click on Panel1 (between digits), message appears + I/O firld clean
+14. When click on Panel2 (between arithmetic symbols), message appears + panel change color
 15. Button C clean last entered digit, not all symbols in I/O field
 16. Buttons / and * are mixed + on mockup their positions are vice versa
 17. The application form can be resized and empty space is shown
@@ -25,9 +25,7 @@ List of bugs:
 23. When press Scientific - new section appears but is hidden
 24. After press =, new digit can be added to the end of the symbols in I/O field
 25. When open app - error appears
-
-
-
-
-
-Several ... can be input in a row
+26. Digits and sign don't remain in the I/O field (when enter next sign)
+27. x2 and sqrt position are not the same as on mockup
+28. Button 3 is bold
+29. The capacity of I/O field  - 17 symbols
